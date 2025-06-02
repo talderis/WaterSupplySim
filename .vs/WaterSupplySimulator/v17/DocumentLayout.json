@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Suli\\csharp\\WaterSupplySimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|e:\\suli\\csharp\\watersupplysimulator\\controllers\\watersystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|solutionrelative:controllers\\watersystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|e:\\suli\\csharp\\watersupplysimulator\\data\\watersystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|solutionrelative:data\\watersystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|e:\\suli\\csharp\\watersupplysimulator\\migrations\\watersystemcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|solutionrelative:migrations\\watersystemcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|e:\\suli\\csharp\\watersupplysimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|e:\\suli\\csharp\\watersupplysimulator\\models\\pumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|solutionrelative:models\\pumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|e:\\suli\\csharp\\watersupplysimulator\\services\\sensordataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|solutionrelative:services\\sensordataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|e:\\suli\\csharp\\watersupplysimulator\\models\\sensorreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|solutionrelative:models\\sensorreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|e:\\suli\\csharp\\watersupplysimulator\\watersupplysimulator.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|solutionrelative:watersupplysimulator.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|e:\\suli\\csharp\\watersupplysimulator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|e:\\suli\\csharp\\watersupplysimulator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|e:\\suli\\csharp\\watersupplysimulator\\models\\controlsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|solutionrelative:models\\controlsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|e:\\suli\\csharp\\watersupplysimulator\\models\\eventlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|solutionrelative:models\\eventlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|e:\\suli\\csharp\\watersupplysimulator\\models\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2057D22-68A3-4587-9140-1828577551AD}|WaterSupplySimulator.csproj|solutionrelative:models\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WaterSystemContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Suli\\csharp\\WaterSupplySimulator\\Migrations\\WaterSystemContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\WaterSystemContextModelSnapshot.cs",
+              "ToolTip": "E:\\Suli\\csharp\\WaterSupplySimulator\\Migrations\\WaterSystemContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\WaterSystemContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:48:02.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SensorDataService.cs",
+              "DocumentMoniker": "E:\\Suli\\csharp\\WaterSupplySimulator\\Services\\SensorDataService.cs",
+              "RelativeDocumentMoniker": "Services\\SensorDataService.cs",
+              "ToolTip": "E:\\Suli\\csharp\\WaterSupplySimulator\\Services\\SensorDataService.cs",
+              "RelativeToolTip": "Services\\SensorDataService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwE0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:15:58.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WaterSystemController.cs",
+              "DocumentMoniker": "E:\\Suli\\csharp\\WaterSupplySimulator\\Controllers\\WaterSystemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WaterSystemController.cs",
+              "ToolTip": "E:\\Suli\\csharp\\WaterSupplySimulator\\Controllers\\WaterSystemController.cs",
+              "RelativeToolTip": "Controllers\\WaterSystemController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAwHoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:15:55.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaterSystemContext.cs",
+              "DocumentMoniker": "E:\\Suli\\csharp\\WaterSupplySimulator\\Data\\WaterSystemContext.cs",
+              "RelativeDocumentMoniker": "Data\\WaterSystemContext.cs",
+              "ToolTip": "E:\\Suli\\csharp\\WaterSupplySimulator\\Data\\WaterSystemContext.cs",
+              "RelativeToolTip": "Data\\WaterSystemContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:15:46.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ControlSettings.cs",
+              "DocumentMoniker": "E:\\Suli\\csharp\\WaterSupplySimulator\\Models\\ControlSettings.cs",
+              "RelativeDocumentMoniker": "Models\\ControlSettings.cs",
+              "ToolTip": "E:\\Suli\\csharp\\WaterSupplySimulator\\Models\\ControlSettings.cs",
+              "RelativeToolTip": "Models\\ControlSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:15:34.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventLog.cs",
+              "DocumentMoniker": "E:\\Suli\\csharp\\WaterSupplySimulator\\Models\\EventLog.cs",
+              "RelativeDocumentMoniker": "Models\\EventLog.cs",
+              "ToolTip": "E:\\Suli\\csharp\\WaterSupplySimulator\\Models\\EventLog.cs",
+              "RelativeToolTip": "Models\\EventLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:15:23.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Alert.cs",
+              "DocumentMoniker": "E:\\Suli\\csharp\\WaterSupplySimulator\\Models\\Alert.cs",
+              "RelativeDocumentMoniker": "Models\\Alert.cs",
+              "ToolTip": "E:\\Suli\\csharp\\WaterSupplySimulator\\Models\\Alert.cs",
+              "RelativeToolTip": "Models\\Alert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:15:15.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PumpState.cs",
+              "DocumentMoniker": "E:\\Suli\\csharp\\WaterSupplySimulator\\Models\\PumpState.cs",
+              "RelativeDocumentMoniker": "Models\\PumpState.cs",
+              "ToolTip": "E:\\Suli\\csharp\\WaterSupplySimulator\\Models\\PumpState.cs",
+              "RelativeToolTip": "Models\\PumpState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:15:03.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SensorReading.cs",
+              "DocumentMoniker": "E:\\Suli\\csharp\\WaterSupplySimulator\\Models\\SensorReading.cs",
+              "RelativeDocumentMoniker": "Models\\SensorReading.cs",
+              "ToolTip": "E:\\Suli\\csharp\\WaterSupplySimulator\\Models\\SensorReading.cs",
+              "RelativeToolTip": "Models\\SensorReading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:14:54.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Suli\\csharp\\WaterSupplySimulator\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\Suli\\csharp\\WaterSupplySimulator\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T15:07:45.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WaterSupplySimulator.csproj",
+              "DocumentMoniker": "E:\\Suli\\csharp\\WaterSupplySimulator\\WaterSupplySimulator.csproj",
+              "RelativeDocumentMoniker": "WaterSupplySimulator.csproj",
+              "ToolTip": "E:\\Suli\\csharp\\WaterSupplySimulator\\WaterSupplySimulator.csproj",
+              "RelativeToolTip": "WaterSupplySimulator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T15:00:22.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Suli\\csharp\\WaterSupplySimulator\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Suli\\csharp\\WaterSupplySimulator\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T14:58:10.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Suli\\csharp\\WaterSupplySimulator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Suli\\csharp\\WaterSupplySimulator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEwAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:21:25.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

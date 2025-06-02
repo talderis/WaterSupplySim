@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WaterSupplySimulator.props" />
+</Project>

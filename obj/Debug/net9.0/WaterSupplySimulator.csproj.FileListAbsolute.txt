@@ -1,0 +1,7 @@
+E:\Suli\csharp\WaterSupplySimulator\obj\Debug\net9.0\WaterSupplySimulator.csproj.AssemblyReference.cache
+E:\Suli\csharp\WaterSupplySimulator\obj\Debug\net9.0\WaterSupplySimulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suli\csharp\WaterSupplySimulator\obj\Debug\net9.0\WaterSupplySimulator.AssemblyInfoInputs.cache
+E:\Suli\csharp\WaterSupplySimulator\obj\Debug\net9.0\WaterSupplySimulator.AssemblyInfo.cs
+E:\Suli\csharp\WaterSupplySimulator\obj\Debug\net9.0\WaterSupplySimulator.csproj.CoreCompileInputs.cache
+E:\Suli\csharp\WaterSupplySimulator\obj\Debug\net9.0\WaterSupplySimulator.MvcApplicationPartsAssemblyInfo.cs
+E:\Suli\csharp\WaterSupplySimulator\obj\Debug\net9.0\WaterSupplySimulator.MvcApplicationPartsAssemblyInfo.cache

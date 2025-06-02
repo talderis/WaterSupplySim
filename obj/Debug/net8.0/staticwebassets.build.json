@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "/Mv6UZaSjj35z+f9ycNo7WBYHLigWW8h3eAn/PPKLYI=",
+  "Source": "WaterSupplySimulator",
+  "BasePath": "_content/WaterSupplySimulator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WaterSupplySimulator\\wwwroot",
+      "Source": "WaterSupplySimulator",
+      "ContentRoot": "E:\\Suli\\csharp\\WaterSupplySimulator\\wwwroot\\",
+      "BasePath": "_content/WaterSupplySimulator",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Suli\\csharp\\WaterSupplySimulator\\wwwroot\\css\\site.css",
+      "SourceId": "WaterSupplySimulator",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Suli\\csharp\\WaterSupplySimulator\\wwwroot\\",
+      "BasePath": "_content/WaterSupplySimulator",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e0z1goekgi",
+      "Integrity": "frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "E:\\Suli\\csharp\\WaterSupplySimulator\\wwwroot\\index.html",
+      "SourceId": "WaterSupplySimulator",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Suli\\csharp\\WaterSupplySimulator\\wwwroot\\",
+      "BasePath": "_content/WaterSupplySimulator",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vs3s4xreh0",
+      "Integrity": "P9pYzHYs9gwEIEOynrAvUY1iQ9LYXEKN/+2LHrPkXH8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\Suli\\csharp\\WaterSupplySimulator\\wwwroot\\js\\app.tsx",
+      "SourceId": "WaterSupplySimulator",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Suli\\csharp\\WaterSupplySimulator\\wwwroot\\",
+      "BasePath": "_content/WaterSupplySimulator",
+      "RelativePath": "js/app#[.{fingerprint}]?.tsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f8cpmooiz8",
+      "Integrity": "0b+tx9nDGNu/v8HD7mbaz4UFiDcf/vPMz4PgqzSsnps=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\app.tsx"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "E:\\Suli\\csharp\\WaterSupplySimulator\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:27:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.e0z1goekgi.css",
+      "AssetFile": "E:\\Suli\\csharp\\WaterSupplySimulator\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:27:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e0z1goekgi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "E:\\Suli\\csharp\\WaterSupplySimulator\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P9pYzHYs9gwEIEOynrAvUY1iQ9LYXEKN/+2LHrPkXH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:27:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P9pYzHYs9gwEIEOynrAvUY1iQ9LYXEKN/+2LHrPkXH8="
+        }
+      ]
+    },
+    {
+      "Route": "index.vs3s4xreh0.html",
+      "AssetFile": "E:\\Suli\\csharp\\WaterSupplySimulator\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P9pYzHYs9gwEIEOynrAvUY1iQ9LYXEKN/+2LHrPkXH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:27:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vs3s4xreh0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P9pYzHYs9gwEIEOynrAvUY1iQ9LYXEKN/+2LHrPkXH8="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.f8cpmooiz8.tsx",
+      "AssetFile": "E:\\Suli\\csharp\\WaterSupplySimulator\\wwwroot\\js\\app.tsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0b+tx9nDGNu/v8HD7mbaz4UFiDcf/vPMz4PgqzSsnps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:27:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f8cpmooiz8"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.tsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0b+tx9nDGNu/v8HD7mbaz4UFiDcf/vPMz4PgqzSsnps="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.tsx",
+      "AssetFile": "E:\\Suli\\csharp\\WaterSupplySimulator\\wwwroot\\js\\app.tsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0b+tx9nDGNu/v8HD7mbaz4UFiDcf/vPMz4PgqzSsnps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:27:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0b+tx9nDGNu/v8HD7mbaz4UFiDcf/vPMz4PgqzSsnps="
+        }
+      ]
+    }
+  ]
+}
