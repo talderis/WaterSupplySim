@@ -44,7 +44,7 @@ Ez a projekt egy modern, biztonságos, jól strukturált .NET 8 backendből és 
 ## Admin jelszó
 
 ```
-admin123
+SuperSecretKey12345
 ```
 
 ## Fő könyvtárak/fájlok
@@ -52,7 +52,6 @@ admin123
 - Frontend: `frontend/src/App.tsx`, `frontend/src/App.css`, `frontend/src/api.ts`, `frontend/vite.config.ts`
 
 ## Megjegyzések
-- A szenzor adatok mindenki számára elérhetők.
 - Az admin funkciók (szivattyú, riasztás, napló, CSV letöltés) csak bejelentkezve használhatók.
 - A fejlesztői HTTPS tanúsítványokat mkcert-tel kell generálni.
 - A projekt fejlesztői környezetre optimalizált, best practice architektúrával.
