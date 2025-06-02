@@ -55,3 +55,9 @@ SuperSecretKey12345
 - Az admin funkciók (szivattyú, riasztás, napló, CSV letöltés) csak bejelentkezve használhatók.
 - A fejlesztői HTTPS tanúsítványokat mkcert-tel kell generálni.
 - A projekt fejlesztői környezetre optimalizált, best practice architektúrával.
+
+![image](https://github.com/user-attachments/assets/a00e5df8-9e89-49a8-92a3-3026f6894d5e)
+![image](https://github.com/user-attachments/assets/3f619658-1faf-4a27-9fd8-1b2be61dc102)
+![image](https://github.com/user-attachments/assets/e46c524d-93db-4773-af27-f88fbad7c847)
+![image](https://github.com/user-attachments/assets/cc0bfc40-01bf-4e01-ae28-c1c98c9bc552)
+
