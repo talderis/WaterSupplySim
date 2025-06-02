@@ -6,7 +6,7 @@ Ez a projekt egy modern, biztonságos, jól strukturált .NET 8 backendből és 
 
 ### Backend (.NET 8, C#)
 - **REST API** szenzoradatok, szivattyú vezérlés, riasztások, eseménynapló
-- **JWT alapú admin bejelentkezés** (jelszó: `admin123`)
+- **JWT alapú admin bejelentkezés** (jelszó: `SuperSecretKey12345`)
 - **Repository, Service, DTO, AutoMapper minták**
 - **Globális exception middleware**, validáció, hibakezelés
 - **CORS, HTTPS fejlesztői támogatás**
